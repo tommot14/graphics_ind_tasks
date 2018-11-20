@@ -1,0 +1,9 @@
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\bin\Debug\indtask.exe.config
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\bin\Debug\indtask.exe
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\bin\Debug\indtask.pdb
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\obj\Debug\indtask.csprojResolveAssemblyReference.cache
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\obj\Debug\indtask.Form1.resources
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\obj\Debug\indtask.Properties.Resources.resources
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\obj\Debug\indtask.csproj.GenerateResource.Cache
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\obj\Debug\indtask.exe
+C:\Users\жлгщн8еыквя\Desktop\Комп графика\ind_task1\indtask\obj\Debug\indtask.pdb
